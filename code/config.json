@@ -1,0 +1,9 @@
+{
+    "trader_levels": [
+        0.05,
+        0.15,
+        0.45
+    ],
+    "fence_allowed": false,
+    "labs_as_start": true
+}

@@ -1,0 +1,45 @@
+{
+    "Primary":{
+        "Reserve": [
+            "Get gud"
+        ],
+        "Customs": [
+            "\"Territory Dispute\"#Stand at Big Red for 10 minutes minimum#Defend against all scavs and PMCs#If anyone else loots Big Red before 10 minutes, fail#After 10 minutes, loot and extract",
+            "\"Head Honcho\"#Kill Reshala#If he is not there or dead already,#clear 15 scavs between two runs",
+            "\"Dead, Not Down\"#Kill Reshala and all guards#5 runs to find him, if not there by 5th run#kill 2 PMCs on the 5th run and #25 scavs between runs",
+            "\"Money talks\"#Loot all cash registers at gas station#Loot two stashes around region#If you have keys to a safe loot them#Make 150k in gear/loot found in raid",
+            "\"Good dog\"#Kill a scav and pmc, put a #marker in their pocket and smoke bombs over them#Light smoke grenades at warehouse 17, 4, and silos by ZB10-11#Survive 20 minutes minimum#Eliminate sniper scavs"
+        ],
+        "Factory": [
+            "\"Smooth Criminal\"#Kill 5 scavs#Kill a PMC#Loot the med tent area#Loot the safe in the 3rd story office area",
+            "\"Ape Fight\"#Kill Tagilla#If another PMC kills Tagilla, kill the PMC#If Tagilla is not present, revisit Factory 3 times#until either 3 PMC kills or Tagilla#No traders between runs until mission is done",
+            "\"Man of Action\"#Kill 5 PMCs#Kill Tagilla or 25 scavs#Leave a marker in shower area of bathrooms#Survive 10 minutes minimum#Do this in 5 raids on this map total",
+            "\"In The Shadows\"#Kill 5 PMC's at night#Kill 10 scavs at night#Extract via Factory key doors#Leave a marker by postman Pat#Leave a marker by Med Tent#Leave a smoke grenade and multitool in the 3rd-floor safe#Do this in 3 raids"
+        ],
+        "Woods": [
+            "Get gud"
+        ],
+        "Lighthouse": [
+            "Get gud"
+        ],
+        "Interchange": [
+            "Get gud"
+        ],
+        "Shoreline": [
+            "Get gud"
+        ],
+        "The Lab": [
+            "Get gud"
+        ]
+    },
+    "Secondary":[
+        "Get 10 scav kills",
+        "Get 5 scav kills",
+        "Kill at least one PMC on each map#as you travel",
+        "Kill 3 PMCs as a minimum total#across each map",
+        "Find 3 medicine items",
+        "Find 5 food items",
+        "Find a new gun",
+        "Find better armor than#you started with"
+    ]
+}
